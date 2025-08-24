@@ -1,4 +1,4 @@
-"""
+
 # Sentinel - Credit Card Fraud Detection System
 
 **Author**: Sparsh  
@@ -118,4 +118,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with ❤️ by Sparsh
 - Inspired by the need for transparent and effective fraud detection
 - Special thanks to the open-source ML community
-"""
